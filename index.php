@@ -15,6 +15,7 @@
     <?php include "./components/headerCpmponent.php"; ?>
 
     <main class="container">
+        <!-- Slava Ukraini! -->
         <form method="post">
             <?php
             $products = [
